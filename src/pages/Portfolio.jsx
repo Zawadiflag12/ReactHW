@@ -4,6 +4,7 @@ import weatherImage from "../assets/Weather.jpg";
 import vehicleImage from "../assets/vehicle.jpg";
 import employeeImage from "../assets/employee.png";
 import calendarImage from "../assets/Calendar.jpg";
+import portfolioImage from "../assets/Portfolio.png";
 import readImage from "../assets/read.jpg";
 
 function Portfolio() {
@@ -48,6 +49,14 @@ function Portfolio() {
             <img
               src={readImage}
               alt="READ ME Creator"
+            ></img>
+          </a>
+        </div>
+        <div className="grid-item">
+          <a href="https://github.com/Zawadiflag12/ReactHW.git">
+            <img
+              src={portfolioImage}
+              alt="Portfolio"
             ></img>
           </a>
         </div>

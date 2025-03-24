@@ -140,11 +140,25 @@ main{
     font-size: 20px;
   }
   ul li::marker {
-    color: teal;
+    color: grey;
   }
   h4{
     font-size: 20px;
     text-decoration: underline;
+  }
+  button{
+    float: right;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(70, 0, 123);
+    a {
+      color: white;
+      text-decoration: unset;
+    }
+  }
+  a{
+    color: black;
   }
 }
 
