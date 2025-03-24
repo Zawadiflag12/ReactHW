@@ -3,10 +3,10 @@ function Resume(){
     return (
     <div className="Resume">
        <h1 className="title"> Resume</h1>
-       <h3>Zawadi Brown</h3>
+       <h3>Zawadi Brown  MS, ATC</h3>
          <p> Full Stack Developer</p>
          <p> Email: 
-            <a href="mailto: zawadi_sb@yahoo.com"> Send Me an Email</a>
+            <a href="mailto: zawadi_sb@yahoo.com">zawadi_sb@yahoo.com</a>
          </p>
          <p> Phone: 843-898-3114</p>
          <h2> Technical Skills:</h2>
