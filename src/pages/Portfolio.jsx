@@ -4,7 +4,7 @@ import weatherImage from "../assets/Weather.jpg";
 import vehicleImage from "../assets/vehicle.jpg";
 import employeeImage from "../assets/employee.png";
 import calendarImage from "../assets/Calendar.jpg";
-import portfolioImage from "../assets/Portfolio.png";
+import portfolioImage from "../assets/portfolio.png";
 import readImage from "../assets/read.jpg";
 
 function Portfolio() {
