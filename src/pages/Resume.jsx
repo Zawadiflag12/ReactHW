@@ -1,5 +1,5 @@
 // build my resume page
-import portfolioImage from "../assets/Portfolio.png";
+import portfolioImage from "../assets/portfolio.png";
 
 function Resume() {
   return (
